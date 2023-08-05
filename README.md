@@ -56,6 +56,7 @@ const ParentComponent = () => {
     </div>
   );
 };
+```
 
 3. Customize the appearance and behavior of the `AutoSuggestion` component using the provided props and styles.
 
